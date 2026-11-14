@@ -1,4 +1,4 @@
-# Lydon Camilleri
+# Marsim
 
 ![snake](https://raw.githubusercontent.com/Marsimio/Marsimio/output/snake.svg)
 
