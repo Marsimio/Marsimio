@@ -14,6 +14,8 @@ Interested in gameplay systems, procedural generation, and TTRPGs.
 ![C++](https://img.shields.io/badge/C++-222222?style=flat&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-222222?style=flat&logo=git&logoColor=white)
 
+![Skills](https://github-readme-insight-terminal-asci.vercel.app/svg/skills?i=Unity,Unreal,Godot,CSharp,C%2B%2B,GIT&theme=windows&scale=1)
+
 ### Projects
 
 - **[Unreal Dice Dungeon](https://github.com/Marsimio/UnrealDiceDungeon)** — First-person slasher with procedurally generated dungeons.
