@@ -1,6 +1,6 @@
 # Lydon Camilleri
 
- - uses: egorthinks/git-bonsai@v1
+<img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
 
 Game developer from Malta, studying Digital Games Development at MCAST.  
 Interested in gameplay systems, procedural generation, and TTRPGs.
