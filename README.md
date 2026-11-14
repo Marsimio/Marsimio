@@ -1,13 +1,23 @@
-![Lydon Camilleri — Game Developer Character Sheet](assets/character-sheet.svg)
+# Lydon Camilleri
 
-<p align="center">
-  <a href="https://marsim.net">Portfolio</a> ·
-  <a href="https://marsim.itch.io">Play my games</a> ·
-  <a href="https://www.linkedin.com/in/lydon-camilleri/">LinkedIn</a>
-</p>
+Game developer from Malta, studying Digital Games Development at MCAST.  
+Interested in gameplay systems, procedural generation, and TTRPGs.
 
-### Quest archive
+[Portfolio](https://marsim.net) · [itch.io](https://marsim.itch.io) · [LinkedIn](https://www.linkedin.com/in/lydon-camilleri/)
 
-- [Unreal Dice Dungeon](https://github.com/Marsimio/UnrealDiceDungeon)
-- [Bookworm](https://github.com/Marsimio/DGD-2D-Bookworm)
-- [Dice Game](https://github.com/Marsimio/DGD-3D-DiceGame)
+### Tools
+
+![Unity](https://img.shields.io/badge/Unity-222222?style=flat&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-222222?style=flat&logo=unrealengine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-222222?style=flat&logo=godotengine&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-222222?style=flat)
+![C++](https://img.shields.io/badge/C++-222222?style=flat&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-222222?style=flat&logo=git&logoColor=white)
+
+### Projects
+
+- **[Unreal Dice Dungeon](https://github.com/Marsimio/UnrealDiceDungeon)** — First-person slasher with procedurally generated dungeons.
+- **[Bookworm](https://github.com/Marsimio/DGD-2D-Bookworm)** — Unity dungeon crawler with interacting spells.
+- **[Dice Game](https://github.com/Marsimio/DGD-3D-DiceGame)** — Unity combat project with skill trees and a shop.
+
+Unity Certified Associate — Game Developer · 2023
