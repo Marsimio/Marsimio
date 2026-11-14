@@ -1,6 +1,6 @@
 # Lydon Camilleri
 
-![snake](https://raw.githubusercontent.com/YOUR_NAME/YOUR_NAME/output/snake.svg)
+![snake](https://raw.githubusercontent.com/Marsimio/Marsimio/output/snake.svg)
 
 Game developer from Malta, studying Digital Games Development at MCAST.  
 Interested in gameplay systems, procedural generation, and TTRPGs.
