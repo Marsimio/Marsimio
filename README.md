@@ -1,6 +1,6 @@
 # Lydon Camilleri
 
-<img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
+![snake](https://raw.githubusercontent.com/YOUR_NAME/YOUR_NAME/output/snake.svg)
 
 Game developer from Malta, studying Digital Games Development at MCAST.  
 Interested in gameplay systems, procedural generation, and TTRPGs.
@@ -25,3 +25,5 @@ Interested in gameplay systems, procedural generation, and TTRPGs.
 - **[Dice Game](https://github.com/Marsimio/DGD-3D-DiceGame)** — Unity combat project with skill trees and a shop.
 
 Unity Certified Associate — Game Developer · 2023
+
+<img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
