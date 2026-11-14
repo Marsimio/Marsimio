@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1300" viewBox="0 0 1000 1300" role="img" aria-labelledby="title desc">
+<title id="title">Lydon Camilleri — Game Developer Character Sheet</title>
+<desc id="desc">Fantasy portfolio featuring skills, tools, education, and game development projects.</desc>
+
+<defs>
+  <radialGradient id="paper" cx=".2" cy=".1" r="1">
+    <stop stop-color="#faf1d8"/>
+    <stop offset="1" stop-color="#e6d7b6"/>
+  </radialGradient>
+  <pattern id="grain" width="6" height="6" patternUnits="userSpaceOnUse">
+    <path d="M0 1h6M0 5h6" stroke="#8a7959" stroke-opacity=".035"/>
+  </pattern>
+</defs>
+
+<style>
+  text { fill:#30291f; font-family:Georgia,'Times New Roman',serif; }
+  .label { font-family:Arial,sans-serif; font-size:12px; letter-spacing:2px; fill:#746750; }
+  .body { font-size:17px; }
+  .small { font-family:Arial,sans-serif; font-size:14px; fill:#746750; }
+  .heading { font-size:22px; letter-spacing:1px; }
+  .red { fill:#793f32; }
+  .rule { fill:none; stroke:#9a896b; }
+  .dark-rule { fill:none; stroke:#30291f; }
+</style>
+
+<!-- Parchment and frame -->
+<path fill="url(#paper)" d="M0 0h1000v1300H0z"/>
+<path fill="url(#grain)" d="M0 0h1000v1300H0z"/>
+<rect x="14" y="14" width="972" height="1272" class="rule"/>
+<rect x="21" y="21" width="958" height="1258" class="rule" stroke-width=".5"/>
+
+<!-- Character identity -->
+<text x="48" y="59" class="label">THE ADVENTURER'S RECORD / CHARACTER PORTFOLIO</text>
+<text x="48" y="121" font-size="57">Lydon Camilleri</text>
+<text x="50" y="157" class="body">Maker of games. Weaver of worlds.</text>
+
+<path d="M862 62h82v81l-41 27-41-27z" fill="#793f32"/>
+<text x="903" y="116" text-anchor="middle" style="fill:#eee4cc;font-size:42px">M</text>
+<text x="903" y="140" text-anchor="middle" style="fill:#eee4cc;font-family:Arial;font-size:9px;letter-spacing:2px">MARSIM</text>
+
+<path d="M48 185H952M48 189H952" class="dark-rule"/>
+
+<text x="48" y="226" font-size="23">Game Developer</text>
+<text x="400" y="226" font-size="23">Malta</text>
+<text x="720" y="226" font-size="23">Marsimio</text>
+<path d="M48 239H278M400 239H630M720 239H950" class="rule"/>
+<text x="48" y="260" class="label">CLASS &amp; OCCUPATION</text>
+<text x="400" y="260" class="label">HOMELAND</text>
+<text x="720" y="260" class="label">KNOWN ALIAS</text>
+
+<path d="M346 294V1160" class="rule"/>
+
+<!-- Proficiencies -->
+<text x="48" y="310" class="red" font-size="18">I.</text>
+<text x="77" y="310" class="heading">PROFICIENCIES</text>
+<path d="M48 322H317" class="dark-rule"/>
+
+<g class="rule">
+  <rect x="51" y="335" width="42" height="46"/>
+  <rect x="48" y="332" width="48" height="52"/>
+  <rect x="51" y="415" width="42" height="46"/>
+  <rect x="48" y="412" width="48" height="52"/>
+  <rect x="51" y="495" width="42" height="46"/>
+  <rect x="48" y="492" width="48" height="52"/>
+</g>
+
+<text x="57" y="366" class="red" font-size="23">U</text>
+<text x="110" y="355" font-size="22">Unity</text>
+<text x="110" y="380" class="small">C# · 2D &amp; 3D development</text>
+
+<text x="57" y="446" class="red" font-size="23">UE</text>
+<text x="110" y="435" font-size="22">Unreal Engine</text>
+<text x="110" y="460" class="small">C++ · Blueprints</text>
+
+<text x="57" y="526" class="red" font-size="23">G</text>
+<text x="110" y="515" font-size="22">Godot</text>
+<text x="110" y="540" class="small">GDScript</text>
+
+<!-- Equipment -->
+<text x="48" y="611" class="red" font-size="18">II.</text>
+<text x="77" y="611" class="heading">EQUIPMENT</text>
+<path d="M48 623H317" class="dark-rule"/>
+
+<text x="50" y="649" class="body">◇ Git · Source control</text>
+<text x="50" y="683" class="body">◇ Aseprite · Pixel art</text>
+<text x="50" y="717" class="body">◇ Ableton · Audio tools</text>
+<text x="50" y="751" class="body">◇ Python · JavaScript · Java</text>
+<text x="50" y="785" class="body">◇ React · Three.js · WebGL</text>
+<path d="M48 660H317M48 694H317M48 728H317M48 762H317M48 796H317" class="rule"/>
+
+<!-- Spellbook -->
+<text x="48" y="858" class="red" font-size="18">III.</text>
+<text x="77" y="858" class="heading">SPELLBOOK</text>
+<path d="M48 870H317" class="dark-rule"/>
+
+<text x="50" y="897" class="body">◇ Procedural dungeons</text>
+<text x="50" y="929" class="body">◇ Combat &amp; spell interactions</text>
+<text x="50" y="961" class="body">◇ Story &amp; metanarrative design</text>
+<text x="50" y="993" class="body">◇ Shader fundamentals</text>
+<text x="50" y="1025" class="body">◇ VR development</text>
+
+<rect x="48" y="1060" width="269" height="103" class="rule"/>
+<text x="61" y="1085" class="label">GUILD CERTIFICATION</text>
+<text x="61" y="1117" class="body">Unity Certified Associate</text>
+<text x="61" y="1142" class="small">Game Developer · 2023</text>
+
+<!-- Backstory -->
+<text x="377" y="310" class="red" font-size="18">IV.</text>
+<text x="406" y="310" class="heading">BACKSTORY</text>
+<path d="M377 322H952" class="dark-rule"/>
+
+<text x="377" y="348" class="body">I'm Lydon, a game developer studying at MCAST. I build dungeon</text>
+<text x="377" y="373" class="body">crawlers, experiment with gameplay systems, and take inspiration</text>
+<text x="377" y="398" class="body">from the stories we tell around a table.</text>
+<text x="377" y="439" class="body">B.Sc. (Hons) Digital Games Development</text>
+<text x="377" y="464" class="small">MCAST · 2024–present</text>
+
+<!-- Projects -->
+<text x="377" y="529" class="red" font-size="18">V.</text>
+<text x="406" y="529" class="heading">RECORDED ADVENTURES</text>
+<path d="M377 541H952" class="dark-rule"/>
+
+<text x="377" y="569" class="label">UNREAL ENGINE 5 / C++</text>
+<text x="377" y="604" font-size="29">Unreal Dice Dungeon</text>
+<text x="377" y="634" class="body">A first-person slasher through procedurally generated dungeons,</text>
+<text x="377" y="658" class="body">with enemies, shops, and items.</text>
+<path d="M377 702H952" class="rule"/>
+
+<text x="377" y="724" class="label">UNITY / C#</text>
+<text x="377" y="759" font-size="29">Bookworm</text>
+<text x="377" y="789" class="body">A spell-slinging dungeon crawler set in a library. Projectiles</text>
+<text x="377" y="813" class="body">interact, and bombs detonate when hit by another weapon.</text>
+<path d="M377 857H952" class="rule"/>
+
+<text x="377" y="879" class="label">UNITY / C#</text>
+<text x="377" y="914" font-size="29">Dice Game</text>
+<text x="377" y="944" class="body">Combat, a skill tree, a map, and a shop — built with ProBuilder,</text>
+<text x="377" y="968" class="body">Cinemachine, and UI Toolkit.</text>
+<path d="M377 1012H952" class="rule"/>
+
+<!-- Influences -->
+<text x="377" y="1051" class="red" font-size="18">VI.</text>
+<text x="406" y="1051" class="heading">BONDS &amp; INFLUENCES</text>
+<path d="M377 1063H952" class="dark-rule"/>
+
+<text x="377" y="1089" class="body">Dungeons &amp; Dragons · Pathfinder · LANCER · CAIN</text>
+<text x="377" y="1124" class="label">GAME JAM ENCOUNTERS</text>
+<text x="377" y="1150" class="small">Malta Global Game Jam 2025 · Games for Cure · MCAST Retro Jam · Malta</text>
+<text x="377" y="1171" class="small">Unity Game Jam</text>
+
+<!-- Footer -->
+<path d="M48 1203H952M48 1207H952" class="dark-rule"/>
+<text x="500" y="1239" text-anchor="middle" font-style="italic" font-size="19">A spellbook in the inventory. A new world in the making.</text>
+<text x="48" y="1268" class="label">MARSIM.NET / MARSIM.ITCH.IO</text>
+<text x="710" y="1268" class="label">CHARACTER SHEET / 01</text>
+</svg>
