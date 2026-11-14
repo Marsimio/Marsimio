@@ -1,5 +1,7 @@
 # Lydon Camilleri
 
+ - uses: egorthinks/git-bonsai@v1
+
 Game developer from Malta, studying Digital Games Development at MCAST.  
 Interested in gameplay systems, procedural generation, and TTRPGs.
 
