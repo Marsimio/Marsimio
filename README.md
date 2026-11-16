@@ -17,8 +17,9 @@ Interested in gameplay systems, unconventional gameplay mechanics, and TTRPGs.
 
 </div>
 
+
 <p align="center">
-  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg/skills?i=Unity,Unreal,Godot,CSharp,C%2B%2B,GIT&theme=windows&scale=1" alt="Skills" width="650" />
+  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg/skills?i=Unity,Unreal,Godot,CSharp,C%2B%2B,Git,Java,Python,JavaScript,MongoDB&theme=windows&scale=1" alt="Skills" width="750" />
 </p>
 
 <p align="center">
