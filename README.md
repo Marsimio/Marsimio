@@ -11,6 +11,4 @@ Interested in gameplay systems, unconventional gameplay mechanics, and TTRPGs.
 
 ![Skills](https://github-readme-insight-terminal-asci.vercel.app/svg/skills?i=Unity,Unreal,Godot,CSharp,C%2B%2B,GIT&theme=windows&scale=1)
 
-Unity Certified Associate — Game Developer · 2023
-
 <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
